@@ -142,6 +142,7 @@
     <ClCompile Include="07.转义字符.c" />
     <ClCompile Include="09.选择语句.c" />
     <ClCompile Include="12.操作符.c" />
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
