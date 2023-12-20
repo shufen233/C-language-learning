@@ -21,40 +21,43 @@
     <ClCompile Include="shufen01.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1.初始C语言.c">
+    <ClCompile Include="01.初始C语言.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="2.数据类型.c">
+    <ClCompile Include="02.数据类型.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="3.常量和变量概念.c">
+    <ClCompile Include="03.常量和变量概念.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="5.常量.c">
+    <ClCompile Include="05.常量.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="6.字符串.c">
+    <ClCompile Include="06.字符串.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="7.转义字符.c">
+    <ClCompile Include="07.转义字符.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="8.注释.c">
+    <ClCompile Include="08.注释.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="9.选择语句.c">
+    <ClCompile Include="09.选择语句.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="10.函数.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="4.变量的作用域.c">
+    <ClCompile Include="04.变量的作用域.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="11.数组.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="12.操作符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13关键字 typedef.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

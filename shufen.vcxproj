@@ -128,18 +128,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="11.数组.c" />
+    <ClCompile Include="13关键字 typedef.c" />
     <ClCompile Include="lanxi.c" />
     <ClCompile Include="shufen01.c" />
     <ClCompile Include="10.函数.c" />
-    <ClCompile Include="1.初始C语言.c" />
-    <ClCompile Include="6.字符串.c" />
-    <ClCompile Include="2.数据类型.c" />
-    <ClCompile Include="3.常量和变量概念.c" />
-    <ClCompile Include="4.变量的作用域.c" />
-    <ClCompile Include="5.常量.c" />
-    <ClCompile Include="8.注释.c" />
-    <ClCompile Include="7.转义字符.c" />
-    <ClCompile Include="9.选择语句.c" />
+    <ClCompile Include="01.初始C语言.c" />
+    <ClCompile Include="06.字符串.c" />
+    <ClCompile Include="02.数据类型.c" />
+    <ClCompile Include="03.常量和变量概念.c" />
+    <ClCompile Include="04.变量的作用域.c" />
+    <ClCompile Include="05.常量.c" />
+    <ClCompile Include="08.注释.c" />
+    <ClCompile Include="07.转义字符.c" />
+    <ClCompile Include="09.选择语句.c" />
     <ClCompile Include="12.操作符.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
