@@ -21,5 +21,11 @@
     <ClCompile Include="shufen01.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="初始C语言.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据类型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

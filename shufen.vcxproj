@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="lanxi.c" />
     <ClCompile Include="shufen01.c" />
+    <ClCompile Include="初始C语言.c" />
+    <ClCompile Include="数据类型.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
