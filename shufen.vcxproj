@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="11.11.c" />
+    <ClCompile Include="11.数组.c" />
     <ClCompile Include="lanxi.c" />
     <ClCompile Include="shufen01.c" />
     <ClCompile Include="10.函数.c" />
@@ -140,6 +140,7 @@
     <ClCompile Include="8.注释.c" />
     <ClCompile Include="7.转义字符.c" />
     <ClCompile Include="9.选择语句.c" />
+    <ClCompile Include="12.操作符.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
