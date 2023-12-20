@@ -131,6 +131,9 @@
     <ClCompile Include="shufen01.c" />
     <ClCompile Include="初始C语言.c" />
     <ClCompile Include="数据类型.c" />
+    <ClCompile Include="常量和变量概念.c" />
+    <ClCompile Include="变量的作用域.c" />
+    <ClCompile Include="常量.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

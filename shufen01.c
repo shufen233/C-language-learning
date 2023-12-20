@@ -238,7 +238,7 @@
 //	return 0;
 //}
 
-//3.define 定义的标识常量
+//3.#define 定义的标识常量
 //#define A 100
 //#define c "abcde"
 //int main()

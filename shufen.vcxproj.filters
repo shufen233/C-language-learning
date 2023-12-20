@@ -27,5 +27,14 @@
     <ClCompile Include="数据类型.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="常量和变量概念.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="变量的作用域.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
