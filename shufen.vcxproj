@@ -131,6 +131,7 @@
     <ClCompile Include="13.关键字 typedef.c" />
     <ClCompile Include="16.指针.c" />
     <ClCompile Include="17.结构体.c" />
+    <ClCompile Include="18.分支和循环_if语句.C" />
     <ClCompile Include="lanxi.c" />
     <ClCompile Include="shufen01.c" />
     <ClCompile Include="10.函数.c" />
