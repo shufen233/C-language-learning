@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 // #define定义常量和宏
 //define定义标识符常量
 //#define NUM 1000

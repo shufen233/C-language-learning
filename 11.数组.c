@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 //数组
 //有序排列的同类数据元素的集合
 

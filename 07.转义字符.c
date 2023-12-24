@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 //转义字符
 // 转变原字符的意义
 //int main()

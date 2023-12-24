@@ -72,7 +72,10 @@
     <ClCompile Include="17.结构体.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="18.分支和循环_if语句.C">
+    <ClCompile Include="19.分支和循环_if语句.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18.什么是语句.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

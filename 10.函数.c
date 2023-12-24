@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 //函数
 //int add(int x,int y) //这段是定义了一个求和函数
 //{

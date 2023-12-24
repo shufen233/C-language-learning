@@ -1,9 +1,10 @@
+#define _CRT_SECURE_NO_WARNINGS
 //结构体
 //结构体是C语言中特别重要的知识点，结构体使得C语言有能力描述复杂类型。
 //比如描述学生，学生包含：名字 + 年龄 + 性别 + 学号这几项信息。
 //这里只能使用结构体来描述了。
 //例如：
-#include <stdio.h>
+//#include <stdio.h>
 //struct stu
 //{
 //	char name[20];//名字

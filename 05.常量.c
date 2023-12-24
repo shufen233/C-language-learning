@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 //常量
 //1.字面常量
 //int main()

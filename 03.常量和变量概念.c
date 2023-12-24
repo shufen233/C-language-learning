@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 //常量和变量的概念
 //变量分为:
 //全局变量 - {}外部定义的变量

@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 //关键字static
 //在C语言中：
 //static, 是用来修饰变量和函数的

@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 //数据类型
 //char        //字符数据类型
 //short       //短整型

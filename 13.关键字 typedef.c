@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 //关键字 typedef
 //ypedef顾名思义是类型定义，这里应该理解为类型重命名。
 //比如：

@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 //╡ывВ╥Ш
 //тккЦ╡ывВ╥Ш
 // +  -  *  /  %

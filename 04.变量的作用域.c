@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 //变量的作用域
 //1.局部变量
 //局部变量的作用域是变量所在的局部范围
